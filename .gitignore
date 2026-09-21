@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Power BI temp files
+*.pbi*
+*.pbix.tmp
+
+# Logs
+*.log
+
+# Large cache files
+.cache/
